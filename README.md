@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="center"><img src="wave.svg" alt="hello" /></p>
+
 <!--
 **tenjx10/tenjx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
