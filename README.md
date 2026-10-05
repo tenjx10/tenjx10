@@ -1,18 +1,29 @@
-## Hi there 👋
+<h2 align="center">Problem J. Jay Patel</h2>
 
-<p align="center"><img src="wave.svg" alt="hello" /></p>
+<p align="center"><sub>time limit per test: 1 second &nbsp;|&nbsp; memory limit: 256 megabytes</sub></p>
 
-<!--
-**tenjx10/tenjx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Statement
 
-Here are some ideas to get you started:
+CS at Boston University. Plays chess, thinks in abstractions, and builds whatever he's inspired by that week.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Input
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ocaml,js,react,pytorch,docker" />
+
+### Output
+
+See pinned repositories below.
+
+### Example
+
+```
+input
+a hard problem
+
+output
+Accepted (eventually)
+```
+
+### Note
+
+[LinkedIn](https://www.linkedin.com/in/jaypatelx10)
