@@ -26,4 +26,4 @@ Accepted (eventually)
 
 ### Note
 
-[LinkedIn](https://www.linkedin.com/in/jaypatelx10)
+$ npx jaypatel
